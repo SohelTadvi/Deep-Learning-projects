@@ -22,3 +22,4 @@ Evaluation metrics such as accuracy, precision, recall, and F1-score help assess
 
 This project demonstrates the power of deep learning in automating image recognition tasks, making it applicable to healthcare, security, and retail industries. The final deliverable is a deployed application showcasing the model’s real-world capabilities.
 
+![Image](https://github.com/user-attachments/assets/dab841e9-6560-40ed-afb3-89cbf91ec191)
